@@ -1,4 +1,3 @@
-# bulk-rnaseq-senescence-analysis
 # Bulk RNA-seq Analysis of Cellular Senescence
 
 ## Overview
