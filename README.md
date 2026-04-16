@@ -25,6 +25,7 @@ This project investigates transcriptomic changes in human fibroblasts during rep
 - Functional focus:
   - Cell cycle genes
   - Immune-related genes
+  - Extracellular matrix genes
 
 ## Key Findings
 - Senescent cells show reduced expression of cell cycle genes
