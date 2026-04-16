@@ -26,6 +26,20 @@ This project investigates transcriptomic changes in human fibroblasts during rep
   - Cell cycle genes
   - Immune-related genes
   - Extracellular matrix genes
+ 
+  ## Example Results
+
+### PCA
+![PCA](results/figures/pca.png)
+
+### Heatmap
+![Heatmap](results/figures/heatmap.png)
+
+### MA Plot
+![MA Plot](results/figures/ma_plot.png)
+
+### Gene Expression (Boxplots)
+![Boxplots](results/figures/boxplots.png)
 
 ## Key Findings
 - Senescent cells show reduced expression of cell cycle genes
