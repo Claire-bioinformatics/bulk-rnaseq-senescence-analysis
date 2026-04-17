@@ -38,6 +38,9 @@ This project investigates transcriptomic changes in human fibroblasts during rep
 ### MA Plot
 ![MA Plot](results/figures/ma_plot.png)
 
+### ORA
+![ORA](results/figures/ora.png)
+
 ### Gene Expression (Boxplots)
 ![Boxplots](results/figures/boxplots.png)
 
