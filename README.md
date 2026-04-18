@@ -43,6 +43,7 @@ This project investigates transcriptomic changes in human fibroblasts during rep
 
 ### Gene Expression (Boxplots)
 ![Boxplots](results/figures/boxplots.png)
+![Boxplots](results/figures/boxplots1.png)
 
 ## Key Findings
 - Senescent cells show reduced expression of cell cycle genes
