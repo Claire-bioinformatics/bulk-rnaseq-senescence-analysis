@@ -46,8 +46,8 @@ This project investigates transcriptomic changes in human fibroblasts during rep
 ![Boxplots](results/figures/boxplots1.png)
 
 ## Key Findings
-- Senescent cells show reduced expression of cell cycle genes
-- Mitochondrial depletion alters immune-related pathways
+- Senescent cells show reduced expression of cell replication genes
+- Mitochondrial depletion led to increase in the ribonucleotide catabolic process and decrease in the expression of extracellualr matrix organization gene set 
 - Clear transcriptomic differences between all three conditions
 
 ## Reproducibility Note
