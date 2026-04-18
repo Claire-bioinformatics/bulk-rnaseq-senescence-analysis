@@ -51,7 +51,7 @@ This project investigates transcriptomic changes in human fibroblasts during rep
 - Clear transcriptomic differences between all three conditions
 
 ## Reproducibility Note
-This analysis was originally performed in a university environment using specific datasets and configurations. The script and report are provided to demonstrate the workflow and interpretation.
+This analysis was originally performed in a university environment using specific datasets and configurations. The script and figures extracted from the report are provided to demonstrate the workflow and interpretation.
 
 ## Skills Demonstrated
 - RNA-seq data analysis
